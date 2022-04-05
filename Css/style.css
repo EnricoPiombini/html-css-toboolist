@@ -6,7 +6,7 @@
 }
 header{
     height: 60px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     border: 1px solid white;
 }
 .container{
@@ -14,7 +14,7 @@ header{
     margin-left: auto;
     margin-right: auto;
     padding: 50px;
-}
+    }
 
 .main-title{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -39,9 +39,10 @@ header{
     background-color:#45ABEA ;
     color:#FFFFFF ;
 }
-h2{
+h2, .Toboolist{
     margin-top: 40px;
     color:#444851 ;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .spunta-verde{
@@ -111,4 +112,7 @@ h2{
     background-color:#B0C926 ;
     color:#E7F5FC;
 
+}
+.list{
+    margin-bottom: 10px;
 }
